@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="about-microsoft-spy-increment.md" source-language="en-US" target-language="zh-TW">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-8ebcdd5" tool-company="Microsoft" />
+      <xliffext:skl_file_name xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8a3415d9-faf5-43be-a17d-ae06f636e492437ef1f72d3b766a0fc59d602af814a64b735c7b.skl</xliffext:skl_file_name>
+      <xliffext:version xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1.2</xliffext:version>
+      <xliffext:ms.openlocfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">437ef1f72d3b766a0fc59d602af814a64b735c7b</xliffext:ms.openlocfilehash>
+      <xliffext:ms.sourcegitcommit xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8b538eea125241e9d6d8b7297b72a66faa9a4a47</xliffext:ms.sourcegitcommit>
+      <xliffext:ms.lasthandoff xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">01/23/2019</xliffext:ms.lasthandoff>
+      <xliffext:moniker_ids xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">vs-2015</xliffext:moniker_ids>
+      <xliffext:ms.openlocfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">about-microsoft-spy-increment.md</xliffext:ms.openlocfilepath>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve" restype="x-metadata">
+          <source>About Microsoft Spy++ | Microsoft Docs</source>
+          <target state="translated">關於 Microsoft Spy + + |Microsoft Docs</target>       </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>About Microsoft Spy++</source>
+          <target state="translated">關於 Microsoft Spy++</target>       </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Use this dialog box to display copyright, version, ownership, and other information about Spy++.</source>
+          <target state="translated">使用此對話方塊以顯示著作權、 版本、 擁有權，以及關於 Spy + + 的其他資訊。</target>       </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
