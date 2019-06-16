@@ -1,2 +1,0 @@
-# mytest
-for testing only
