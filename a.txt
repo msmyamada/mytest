@@ -6,3 +6,4 @@ added from remote repo
 adding from local again
 this is in master
 add new line from master
+after cleaning, add from master
