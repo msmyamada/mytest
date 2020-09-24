@@ -112,7 +112,7 @@ dotnet new razorclasslib
 
 <span data-ttu-id="fcdbe-156">In diesem Abschnitt wird nicht die Unterstützung mehrerer Zielplattformen erörtert, um mehrere Versionen von MVC zu unterstützen.</span><span class="sxs-lookup"><span data-stu-id="fcdbe-156">This section doesn't discuss multi-targeting to support multiple versions of MVC.</span></span> <span data-ttu-id="fcdbe-157">Anleitungen zum Unterstützen mehrerer ASP.NET Core-Versionen finden Sie unter [Unterstützung mehrerer ASP.NET Core-Versionen](#support-multiple-aspnet-core-versions).</span><span class="sxs-lookup"><span data-stu-id="fcdbe-157">For guidance on supporting multiple ASP.NET Core versions, see [Support multiple ASP.NET Core versions](#support-multiple-aspnet-core-versions).</span></span>
 
-### <a name="no-locrazor-views-or-no-locrazor-pages"></a><span data-ttu-id="fcdbe-158">Razor-Ansichten oder Razor-Seiten</span><span class="sxs-lookup"><span data-stu-id="fcdbe-158">Razor views or Razor Pages</span></span>
+### <a name="razor-views-or-razor-pages"></a><span data-ttu-id="fcdbe-158">Razor-Ansichten oder Razor-Seiten</span><span class="sxs-lookup"><span data-stu-id="fcdbe-158">Razor views or Razor Pages</span></span>
 
 <span data-ttu-id="fcdbe-159">Ein Projekt, das [Razor-Ansichten](xref:mvc/views/overview) oder [Razor-Seiten](xref:razor-pages/index) enthält, muss das [Microsoft.NET.Sdk.Razor-SDK ](xref:razor-pages/sdk) verwenden.</span><span class="sxs-lookup"><span data-stu-id="fcdbe-159">A project that includes [Razor views](xref:mvc/views/overview) or [Razor Pages](xref:razor-pages/index) must use the [Microsoft.NET.Sdk.Razor SDK](xref:razor-pages/sdk).</span></span>
 
