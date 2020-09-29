@@ -144,9 +144,9 @@ The following example shows an Azure AD SSPR technical profile used to verify th
 </TechnicalProfile>
 ```
 ### <a name="Getting-in-touch-with-the-Microsoft-Edge-DevTools-team"></a> aaaaaaaaaaaaaaaaaa
-aaa
+aaa.  
 bbb
-ccc
+ccc  
 ddd
 aaa
 bbb
