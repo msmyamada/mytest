@@ -1,4 +1,5 @@
 Please keep sending your [feedback and feature requests](#getting-in-touch-with-the-microsoft-edge-devtools-team)! 
+[mylink](#aabbcc)
 # Define an Azure AD SSPR technical profile in an Azure AD B2C custom policy
 
 [!INCLUDE [active-directory-b2c-advanced-audience-warning](../../includes/active-directory-b2c-advanced-audience-warning.md)]
@@ -29,7 +30,7 @@ The following example shows an Azure AD SSPR technical profile:
   <Protocol Name="Proprietary" Handler="Web.TPEngine.Providers.AadSsprProtocolProvider, Web.TPEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
     ...
 ```
-
+## aabbcc
 ## Send email
 
 The first mode of this technical profile is to generate a code and send it. The following options can be configured for this mode.
@@ -140,7 +141,7 @@ The following example shows an Azure AD SSPR technical profile used to verify th
   </InputClaims>
 </TechnicalProfile>
 ```
-(Sentence B) ## Getting in touch with the Microsoft Edge DevTools team
+## Getting in touch with the Microsoft Edge DevTools team
 aaa
 bbb
 ccc
