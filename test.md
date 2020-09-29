@@ -143,7 +143,7 @@ The following example shows an Azure AD SSPR technical profile used to verify th
   </InputClaims>
 </TechnicalProfile>
 ```
-### <a name="Getting in touch with the Microsoft Edge DevTools team"></a> aaaaaaaaaaaaaaaaaa
+### <a name="Getting-in-touch-with-the-Microsoft-Edge-DevTools-team"></a> aaaaaaaaaaaaaaaaaa
 aaa
 bbb
 ccc
