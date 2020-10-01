@@ -453,7 +453,7 @@ DevTools теперь будет отображать тот же тип рес�
 
 <!-- links -->  
 
-[DevtoolsWhatsnew200205DevtoolsDeprecationPropertiesPaneElementsPanel]: ../05/devtools.md#deprecation-of-the-properties-pane-in-the-elements-panel "Устаревшая область свойств на панели "элементы" — новые возможности DevTools (Microsoft Edge 84) | Документы Microsoft"  
+[DevtoolsWhatsnew200205DevtoolsDeprecationPropertiesPaneElementsPanel]: ../05/devtools.md#deprecation-of-the-properties-pane-in-the-elements-panel "Устаревшая область свойств на панели элементы — новые возможности DevTools (Microsoft Edge 84) | Документы Microsoft"  
 [DevtoolsWhatsnew200206DevtoolsCssGridDebuggingFeatures]: ../06/devtools.md#css-grid-debugging-features "Функции отладки сетки CSS: новые возможности DevTools (Microsoft Edge 85) | Документы Microsoft"  
 
 [DevtoolsDeviceModeIndex]: /microsoft-edge/devtools-guide-chromium/device-mode/index "Эмуляция мобильных устройств в Microsoft Edge DevTools | Документы Microsoft"  
