@@ -7,6 +7,8 @@
             Console.WriteLine("Hello, World! ver2");
 
             Console.WriteLine("This is a new code added in beta1 branch.");
+
+            Console.WriteLine("This is a new code added in beta branch.");
         }
     }
 }
