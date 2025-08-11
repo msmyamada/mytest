@@ -8,7 +8,7 @@
 
             Console.WriteLine("This is a new code added in beta1 branch.");
 
-            Console.WriteLine("This is a new code added in beta branch. adding something to test Pull request");
+            Console.WriteLine("This is a new code added in beta branch.");
         }
     }
 }
