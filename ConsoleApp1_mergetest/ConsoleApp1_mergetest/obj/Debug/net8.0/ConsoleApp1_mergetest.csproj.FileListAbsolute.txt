@@ -1,0 +1,15 @@
+C:\clones\mytest\ConsoleApp1_mergetest\ConsoleApp1_mergetest\bin\Debug\net8.0\ConsoleApp1_mergetest.exe
+C:\clones\mytest\ConsoleApp1_mergetest\ConsoleApp1_mergetest\bin\Debug\net8.0\ConsoleApp1_mergetest.deps.json
+C:\clones\mytest\ConsoleApp1_mergetest\ConsoleApp1_mergetest\bin\Debug\net8.0\ConsoleApp1_mergetest.runtimeconfig.json
+C:\clones\mytest\ConsoleApp1_mergetest\ConsoleApp1_mergetest\bin\Debug\net8.0\ConsoleApp1_mergetest.dll
+C:\clones\mytest\ConsoleApp1_mergetest\ConsoleApp1_mergetest\bin\Debug\net8.0\ConsoleApp1_mergetest.pdb
+C:\clones\mytest\ConsoleApp1_mergetest\ConsoleApp1_mergetest\obj\Debug\net8.0\ConsoleApp1_mergetest.GeneratedMSBuildEditorConfig.editorconfig
+C:\clones\mytest\ConsoleApp1_mergetest\ConsoleApp1_mergetest\obj\Debug\net8.0\ConsoleApp1_mergetest.AssemblyInfoInputs.cache
+C:\clones\mytest\ConsoleApp1_mergetest\ConsoleApp1_mergetest\obj\Debug\net8.0\ConsoleApp1_mergetest.AssemblyInfo.cs
+C:\clones\mytest\ConsoleApp1_mergetest\ConsoleApp1_mergetest\obj\Debug\net8.0\ConsoleApp1_mergetest.csproj.CoreCompileInputs.cache
+C:\clones\mytest\ConsoleApp1_mergetest\ConsoleApp1_mergetest\obj\Debug\net8.0\ConsoleApp1_mergetest.sourcelink.json
+C:\clones\mytest\ConsoleApp1_mergetest\ConsoleApp1_mergetest\obj\Debug\net8.0\ConsoleApp1_mergetest.dll
+C:\clones\mytest\ConsoleApp1_mergetest\ConsoleApp1_mergetest\obj\Debug\net8.0\refint\ConsoleApp1_mergetest.dll
+C:\clones\mytest\ConsoleApp1_mergetest\ConsoleApp1_mergetest\obj\Debug\net8.0\ConsoleApp1_mergetest.pdb
+C:\clones\mytest\ConsoleApp1_mergetest\ConsoleApp1_mergetest\obj\Debug\net8.0\ConsoleApp1_mergetest.genruntimeconfig.cache
+C:\clones\mytest\ConsoleApp1_mergetest\ConsoleApp1_mergetest\obj\Debug\net8.0\ref\ConsoleApp1_mergetest.dll
