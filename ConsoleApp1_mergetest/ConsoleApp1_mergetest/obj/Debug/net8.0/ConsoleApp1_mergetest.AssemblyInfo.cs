@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp1_mergetest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0867cedefd5c5201ff12d5e7bda0324de799e85d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7d8b50839dd500a859f3ecdd0d2fd98d38dcdf1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp1_mergetest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp1_mergetest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
